@@ -1,0 +1,1 @@
+SELECT genres FROM `desafioanalytics-489422.movielens_raw.raw_movies` LIMIT 1000

@@ -1,0 +1,1 @@
+SELECT userId FROM `desafioanalytics-489422.movielens_raw.raw_ratings` LIMIT 1000

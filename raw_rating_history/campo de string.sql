@@ -1,0 +1,1 @@
+SELECT string_field_0 FROM `desafioanalytics-489422.movielens_raw.raw_rating_history` LIMIT 1000
