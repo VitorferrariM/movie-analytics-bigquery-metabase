@@ -113,7 +113,8 @@ Site https://astounding-crisp-c8b1a5.netlify.app/
 
 👨‍💻 Autor
 Projeto desenvolvido por Vitor Ferrari Mendes como parte dos estudos em:
-
-<img src="Captura de tela 2026-03-08 180526.png" alt="Captura de tela" width="300">
+<p align="center">
+  <img src="![Captura de tela 2026-03-08 180526] width="800">
+</p>
 
 
