@@ -116,5 +116,13 @@ Projeto desenvolvido por Vitor Ferrari Mendes como parte dos estudos em:
 <p align="center">
   <img src="Captura de tela 2026-03-08 180526.jpg" width="800">
 </p>
+<p align="center">
+  <img src="" width="800">
+</p>
+
+<p align="center">
+  <img src="" width="800">
+</p>
+
 
 
