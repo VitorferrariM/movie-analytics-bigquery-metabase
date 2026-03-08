@@ -95,10 +95,6 @@ Popularidade dos filmes
 Filmes mais bem avaliados
 Análise por ano de lançamento
 
-📸 Dashboard:
-
-(Adicionar imagem do dashboard aqui)
-
 🚀 Objetivo do Projeto
 
 O principal objetivo deste projeto foi praticar um fluxo completo de dados utilizando ferramentas utilizadas no mercado de dados, incluindo:
