@@ -109,7 +109,11 @@ criação de métricas
 visualização de dados
 Esse tipo de projeto é muito comum em ambientes de Data Analytics e Business Intelligence.
 
-👨‍💻 Autor
+Site https://astounding-crisp-c8b1a5.netlify.app/
 
+👨‍💻 Autor
 Projeto desenvolvido por Vitor Ferrari Mendes como parte dos estudos em:
+
+<img src="![Captura de tela 2026-03-08 180526](https://github.com/user-attachments/assets/8f731d2f-7cb4-4b27-8ee2-c8bfe32b4e38)
+" awidth="300">
 
