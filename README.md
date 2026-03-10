@@ -1,5 +1,5 @@
 🎞️ Movie Analytics Project – BigQuery + Metabase
-📌 Sobre o projeto
+📌 Sobre o projeto da Netflix
 
 Este projeto foi desenvolvido como parte de um desafio da comunidade Dados por Todos, com o objetivo de praticar um fluxo completo de análise de dados utilizando ferramentas modernas de Data Analytics.
 O projeto consiste em construir um pipeline simples de dados, desde o armazenamento inicial até a criação de dashboards analíticos.
